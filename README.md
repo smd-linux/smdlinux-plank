@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smd-arch-plank
+Configuration for plank
